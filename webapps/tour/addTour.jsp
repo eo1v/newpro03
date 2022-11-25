@@ -81,7 +81,7 @@
 					  <label class="label">이미지 추가</label>
 					  <div class="control">
 						<input type="hidden" name="pic_ck1" id="pic_ck1" value="no"/>
-						<button type="button" class="button is-link" onclick="imgUpload(1)">이미지 추가</button>
+						<button type="button" class="button is-link" onclick="imgUpload()">이미지 추가</button>
 					  </div>
 					</div>
 									

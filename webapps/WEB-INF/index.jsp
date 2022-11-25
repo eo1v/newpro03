@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>메인 페이지</title>
     <jsp:include page="/head.jsp"/>

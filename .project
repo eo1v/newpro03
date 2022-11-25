@@ -33,4 +33,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>webapps/data/star.png</name>
+			<type>1</type>
+			<location>C:/Users/201-10/Downloads/pro03-master/pro03-master/webapps/data/star.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>

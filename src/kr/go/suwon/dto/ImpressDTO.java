@@ -9,6 +9,7 @@ public class ImpressDTO {
 	private double star;
 	private String imgsrc;
 	private String regdate;
+	private String place;
 	public int getNo() {
 		return no;
 	}
@@ -56,5 +57,11 @@ public class ImpressDTO {
 	}
 	public void setRegdate(String regdate) {
 		this.regdate = regdate;
+	}
+	public String getPlace() {
+		return place;
+	}
+	public void setPlace(String place) {
+		this.place = place;
 	}
 }

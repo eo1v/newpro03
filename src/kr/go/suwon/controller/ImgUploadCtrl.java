@@ -33,7 +33,7 @@ public class ImgUploadCtrl extends HttpServlet {
 		int maxSize = 10*1024*1024;
 		String saveFolder = "D:/hsy/newpro01/pro03/webapps/upload"; //개발자 디렉토리
 		String uploadPath = request.getSession().getServletContext().getRealPath("/upload");  //서버 디렉토리
-	// 	String uploadPath = request.getRealPath("/upload");
+	//String uploadPath = request.getRealPath("/upload");
 		TourDAO dao = new TourDAO(); 
 		PicDTO dto = new PicDTO();
 		

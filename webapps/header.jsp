@@ -15,7 +15,6 @@
 		      <span aria-hidden="true"></span>
 		    </a>
 		  </div>
-		
 		  <div id="navbarBasicExample" class="navbar-menu">
 		    <div class="navbar-start" id="gnb">
 		    	<!-- ajax로 메뉴 로딩하여 추가하기 -->
@@ -24,7 +23,7 @@
 				      	관광
 				    </a>
 				    <div class="navbar-dropdown cate" id="cate01">
-				    
+				    	관광지
 				    </div>
 				</div>
 				<div class="navbar-item has-dropdown is-hoverable">
@@ -32,7 +31,7 @@
 				      	체험
 				    </a> 
 		   		    <div class="navbar-dropdown cate" id="cate02">
-				    
+				    	XR버스
 				    </div>
 				</div>
 				<div class="navbar-item has-dropdown is-hoverable">
@@ -101,23 +100,7 @@
 				    <a class="navbar-link">
 				      	수원에 대하여
 				    </a>
-				
-				    <div class="navbar-dropdown single">
-				      <a class="navbar-item">
-				                  수원소개
-				      </a>
-				      <a class="navbar-item">
-				        수원 CI/BI
-				      </a>
-				      <a class="navbar-item">
-				        관광 홍보대사
-				      </a>
-				      <hr class="navbar-divider">
-				      <a class="navbar-item">
-				        리플릿
-				      </a>
-				    </div>
-			  </div>
+ 			  </div>
 			</div>
 			
 			<div class="navbar-end" id="tnb">
